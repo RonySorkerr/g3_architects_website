@@ -65,7 +65,7 @@ nav li a {
 
 /* banner section styling */
 
-.banner {}
+
 
 .banner_content {
     max-width: 800px;
@@ -79,7 +79,7 @@ nav li a {
     color: #131313;
 }
 
-.banner_description {}
+
 
 .banner img {
     margin-top: 20px;
@@ -286,3 +286,5 @@ footer {
         flex-direction: column;
     }
 }
+
+/* everything is done */
